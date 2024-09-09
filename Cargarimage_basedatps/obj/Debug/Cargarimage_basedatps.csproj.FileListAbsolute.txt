@@ -1,0 +1,22 @@
+C:\ARCHIVOS LESLIE\trabajos personales\C# Insert Image into DataBase\Cargarimage_basedatps\Cargarimage_basedatps\bin\Debug\Cargarimage_basedatps.exe.config
+C:\ARCHIVOS LESLIE\trabajos personales\C# Insert Image into DataBase\Cargarimage_basedatps\Cargarimage_basedatps\bin\Debug\Cargarimage_basedatps.exe
+C:\ARCHIVOS LESLIE\trabajos personales\C# Insert Image into DataBase\Cargarimage_basedatps\Cargarimage_basedatps\bin\Debug\Cargarimage_basedatps.pdb
+C:\ARCHIVOS LESLIE\trabajos personales\C# Insert Image into DataBase\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.csproj.AssemblyReference.cache
+C:\ARCHIVOS LESLIE\trabajos personales\C# Insert Image into DataBase\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.csproj.SuggestedBindingRedirects.cache
+C:\ARCHIVOS LESLIE\trabajos personales\C# Insert Image into DataBase\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.Form1.resources
+C:\ARCHIVOS LESLIE\trabajos personales\C# Insert Image into DataBase\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.Properties.Resources.resources
+C:\ARCHIVOS LESLIE\trabajos personales\C# Insert Image into DataBase\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.csproj.GenerateResource.cache
+C:\ARCHIVOS LESLIE\trabajos personales\C# Insert Image into DataBase\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.csproj.CoreCompileInputs.cache
+C:\ARCHIVOS LESLIE\trabajos personales\C# Insert Image into DataBase\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.exe
+C:\ARCHIVOS LESLIE\trabajos personales\C# Insert Image into DataBase\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.pdb
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\C# Recuperar imagen de la base de datos\Cargarimage_basedatps\Cargarimage_basedatps\bin\Debug\Cargarimage_basedatps.exe.config
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\C# Recuperar imagen de la base de datos\Cargarimage_basedatps\Cargarimage_basedatps\bin\Debug\Cargarimage_basedatps.exe
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\C# Recuperar imagen de la base de datos\Cargarimage_basedatps\Cargarimage_basedatps\bin\Debug\Cargarimage_basedatps.pdb
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\C# Recuperar imagen de la base de datos\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.csproj.AssemblyReference.cache
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\C# Recuperar imagen de la base de datos\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.csproj.SuggestedBindingRedirects.cache
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\C# Recuperar imagen de la base de datos\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.Form1.resources
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\C# Recuperar imagen de la base de datos\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.Properties.Resources.resources
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\C# Recuperar imagen de la base de datos\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.csproj.GenerateResource.cache
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\C# Recuperar imagen de la base de datos\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.csproj.CoreCompileInputs.cache
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\C# Recuperar imagen de la base de datos\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.exe
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\C# Recuperar imagen de la base de datos\Cargarimage_basedatps\Cargarimage_basedatps\obj\Debug\Cargarimage_basedatps.pdb
